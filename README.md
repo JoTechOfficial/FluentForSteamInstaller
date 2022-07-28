@@ -6,7 +6,7 @@ With this project I used CreateInstall Advanced for custom font, images, and mor
   <img src="https://i.postimg.cc/SsxjM7HS/Screenshot-2022-07-23-015857.png" />
 </p>
 
-Required (Only required for Windows 10)
+Required (Only required for Windows 7-10)
 ---------
 Segoe Ui Font: https://aka.ms/segoeuifont
 
