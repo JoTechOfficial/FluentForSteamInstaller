@@ -8,7 +8,9 @@ With this project I used CreateInstall Advanced for custom font, images, and mor
 
 Required (Only required for Windows 7-10)
 ---------
-Segoe Ui Font: https://aka.ms/segoeuifont
+Segoe UI Font [Install](https://jotechofficial.github.io/FluentForDiscord/Fonts/Segoe%20UI.ttf)
+
+Segoe UI Variable Font [Install](https://jotechofficial.github.io/FluentForDiscord/Fonts/SegoeUI-VF.ttf)
 
 Privacy Statement
 ---------
