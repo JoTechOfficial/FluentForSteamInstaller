@@ -14,7 +14,7 @@ Segoe UI Variable Font [Install](https://jotechofficial.github.io/FluentForDisco
 
 Privacy Statement
 ---------
-This software is completely safe to use and doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 10/11.
+This software is completely safe to use and doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 7-11.
 
 Windows Warning Popups
 ---------
