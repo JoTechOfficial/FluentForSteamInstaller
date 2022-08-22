@@ -3,7 +3,7 @@ This is an official installer for fluent for steam. Used with a software called 
 With this project I used CreateInstall Advanced for custom font, images, and more.
 
 <p align="center">
-  <img src="https://i.postimg.cc/SsxjM7HS/Screenshot-2022-07-23-015857.png" />
+  <img src="https://i.ibb.co/HYXrsYG/image.png" />
 </p>
 
 Required (Only required for Windows 7-10)
