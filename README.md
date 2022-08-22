@@ -1,4 +1,4 @@
-# <img src="https://i.postimg.cc/L8hTdrDh/fluent-1.png" width="47" height="32">FluentForSteamInstaller
+# <img src="https://i.postimg.cc/L8hTdrDh/fluent-1.png" width="47" height="32"> FluentForSteamInstaller
 This is an official installer for fluent for steam. Used with a software called CreateInstall.
 With this project I used CreateInstall Advanced for custom font, images, and more.
 
